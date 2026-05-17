@@ -1,5 +1,6 @@
 ---
 title: Sample blog
+author: Bow T, John D
 tags: Tag1
 ---
 
