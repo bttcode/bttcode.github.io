@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hey! I'm a curious one, who loves Java ☕, rap music 🤘 and breakdance 🤸‍♂️.
 
-Maybe say a some things about yourself.
+My posts will revolve around some weird ideas in my small brain.
 
-Or maybe what you plan to blog about.
+Enjoy!
