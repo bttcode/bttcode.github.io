@@ -1,3 +1,9 @@
+---
+title: What if your logs could diagnose themselves at 3am?
+author: Bow
+tags: devops, microservice
+---
+
 # What if your logs could diagnose themselves at 3am?
 
 It's 3:04 AM. Your payment service just started throwing errors. Somewhere, an on-call engineer's phone is buzzing.
