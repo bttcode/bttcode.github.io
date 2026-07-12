@@ -4,8 +4,6 @@ author: Bow
 tags: devops, microservice
 ---
 
-# What if your logs could diagnose themselves at 3am?
-
 It's 3:04 AM. Your payment service just started throwing errors. Somewhere, an on-call engineer's phone is buzzing.
 
 Here's what happens next in most companies: they open a laptop, squint at a dashboard, open another dashboard, grep through logs across four or five services, try to remember if this happened before, and — 30 to 45 minutes later — finally understand *what* broke. Only then do they start actually fixing it.
